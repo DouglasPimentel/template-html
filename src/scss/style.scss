@@ -1,0 +1,9 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+:root {
+  --bg-color: #f8f9fa;
+}
+
+body {
+  background-color: var(--bg-color);
+}
