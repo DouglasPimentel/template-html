@@ -10,6 +10,7 @@ Este projeto é um boilerplate utilizando:
 - 💡 **jQuery** para interações rápidas no DOM
 
 ## 📁 Estrutura do Projeto
+```
 template-html/
 ├── dist/
 ├── src/
@@ -24,6 +25,7 @@ template-html/
 ├── webpack.config.js
 ├── package.json
 └── .babelrc
+```
 
 ## 🧞 Comandos
 
