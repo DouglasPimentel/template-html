@@ -14,11 +14,10 @@ Este projeto é um boilerplate utilizando:
 template-html/
 ├── dist/
 ├── src/
-│   ├── assets/
-│   │   ├── ts/
-│   │   │   └── main.ts
-│   │   └── scss/
-│   │       └── style.scss
+│   ├── ts/
+│   │   └── main.ts
+│   |── scss/
+│   │   └── style.scss
 │   └── index.html
 ├── gulpfile.js
 ├── tsconfig.json
